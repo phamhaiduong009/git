@@ -1,4 +1,0 @@
-import cv2
-import numpy as np
-
-im=img.open("abc.img");
